@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-testing/static/css/main.6795ef59.css",
+    "main.js": "/react-testing/static/js/main.a10498fe.js",
+    "static/js/787.816eb204.chunk.js": "/react-testing/static/js/787.816eb204.chunk.js",
+    "static/media/Profile.jpg": "/react-testing/static/media/Profile.579c573187bc8ff34f8c.jpg",
+    "static/media/Logo(3).png": "/react-testing/static/media/Logo(3).ad42b71aea8a4d4254ce.png",
+    "static/media/react.png": "/react-testing/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/react-testing/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/react-testing/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/github.png": "/react-testing/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/react-testing/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react-testing/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react-testing/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/react-testing/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-testing/index.html",
+    "main.6795ef59.css.map": "/react-testing/static/css/main.6795ef59.css.map",
+    "main.a10498fe.js.map": "/react-testing/static/js/main.a10498fe.js.map",
+    "787.816eb204.chunk.js.map": "/react-testing/static/js/787.816eb204.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6795ef59.css",
+    "static/js/main.a10498fe.js"
+  ]
+}
